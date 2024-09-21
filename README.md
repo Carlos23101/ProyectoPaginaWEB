@@ -1,5 +1,3 @@
-# ProyectoPaginaWEB
-Desarrollo de la pagina web para el proyecto
 <!DOCTYPE html>
 <html lang="es">
 <head>
